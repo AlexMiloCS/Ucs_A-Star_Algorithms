@@ -36,3 +36,20 @@ A complete, Java-based console application that visualizes and compares pathfind
 Open your terminal, navigate to the project directory, and compile all Java files:
 ```bash
 javac *.java
+```
+## Project Structure & Source Code
+
+This repository consists of 7 core Java classes along with detailed project documentation. Below is the complete file structure:
+
+```text
+├── A_Star.java                 # A* Algorithm implementation
+├── EnglishReport.pdf           # Project documentation and analysis (English)
+├── GreekReport.pdf             # Project documentation and analysis (Greek)
+├── Heuristic.java              # Heuristic function logic for A*
+├── Labyrinth.java              # Grid environment generation
+├── Movement.java               # Traversal cost calculations
+├── Node.java                   # State representation for pathfinding
+├── Project.java                # Main entry point and execution setup
+├── README.md                   # Project overview and instructions
+└── UniformCostSearch.java      # UCS Algorithm implementation
+```
