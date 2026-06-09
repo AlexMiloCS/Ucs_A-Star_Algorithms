@@ -1,4 +1,4 @@
-# 🗺️ Pathfinding Algorithms: A* and Uniform Cost Search (UCS)
+# Pathfinding Algorithms: A* and Uniform Cost Search (UCS)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-A*-blue?style=for-the-badge)
