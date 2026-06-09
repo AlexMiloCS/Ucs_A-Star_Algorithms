@@ -1,9 +1,5 @@
 # Pathfinding Algorithms: A* and Uniform Cost Search (UCS)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-A*-blue?style=for-the-badge)
-![Console](https://img.shields.io/badge/Interface-Console-black?style=for-the-badge)
-
 A complete, Java-based console application that visualizes and compares pathfinding algorithms on a randomized grid. The project generates a labyrinth with varying terrain heights and obstacles, then finds the optimal cost-effective path from a starting position to one of two potential goals using Uniform Cost Search (UCS) and A* (A-Star).
 
 ---
