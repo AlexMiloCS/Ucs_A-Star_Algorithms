@@ -53,3 +53,30 @@ This repository consists of 7 core Java classes along with detailed project docu
 ├── README.md                   # Project overview and instructions
 └── UniformCostSearch.java      # UCS Algorithm implementation
 ```
+
+## Usage & Example
+...
+### Example Console Output
+```text
+Give array size
+5
+arraysize is: 5
+{2} ,{1} ,{---} ,{3} ,{4} ,
+{1} ,{3} ,{2} ,{2} ,{1} ,
+...
+Enter Coordinates for S
+0 0
+Enter Position for G1
+4 4
+Enter Position for G2
+0 4
+...
+algorithm is: UCS
+The algorithm expanded on: (0,0) (1,0) (0,1) ...
+Path = S:(0,0) , (1,1) , (2,2) , (3,3) , (4,4):G1
+Cost of Path = 4.5
+
+algorithm is: A*
+The algorithm expanded on: (0,0) (1,1) (2,2) ...
+Path = S:(0,0) , (1,1) , (2,2) , (3,3) , (4,4):G1
+Cost of Path = 4.5
